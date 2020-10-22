@@ -1,0 +1,23 @@
+<style>
+            body{
+                background-color:aqua
+                
+            }
+            .title_espec{
+                line-height: 25px;
+                text-decoration: underline;
+                font-size: 2em;
+                font-weight: bold;
+                color: black;
+            }
+            .text_portifolio{
+                font-family: monospace, sans-serif;
+                font-weight: 500;
+            }
+            .info{
+                background-color:beige;
+            }
+            img{
+                border-radius: 50%;
+            }
+        </style>
