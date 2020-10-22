@@ -1,9 +1,6 @@
 <style>
-            body{
-                background-color:aqua
-                
             }
-            .title_espec{
+                .title_espec{
                 line-height: 25px;
                 text-decoration: underline;
                 font-size: 2em;
@@ -13,11 +10,37 @@
             .text_portifolio{
                 font-family: monospace, sans-serif;
                 font-weight: 500;
+                line-height: 30px;
+
             }
-            .info{
-                background-color:beige;
+            .info {
+                border: 5px solid black;
+                padding: 35px;
+                margin: 35px;
+                float:right;
             }
-            img{
+            .info h3,h4 {
+                text-decoration: underline;
+                font-size: 2em;
+                font-weight: bold;
+                color: black;
+            
+            }
+            img {
                 border-radius: 50%;
+                margin:35px
             }
-        </style>
+            .nav-link{
+                height: 50px;
+                width: 300px;
+                display: inline-block;
+                margin: 35px;             
+            }
+            .main-info{
+                background-color: bisque;
+            }
+            #image{
+                float:left;
+            }
+            
+</style>
